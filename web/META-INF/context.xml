@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Yellow_Moon_Shop">
+    <Resource name="YellowMoonShop" type="javax.sql.DataSource" auth="Container"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+        url="jdbc:sqlserver://localhost:1433;databaseName=Yellow Moon Shop"
+        username="sa" password="nghung08112000"
+    />
+</Context>
